@@ -1,0 +1,8 @@
+" share buffer to osx clipboard
+set clipboard=unnamed,unnamedplus
+
+" no balloons ever
+if has("gui_running")
+  set noballooneval
+  let g:syntastic_enable_balloons = 0
+endif
