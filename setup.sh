@@ -11,3 +11,4 @@ ln -s "$PWD/asdfrc" ~/.asdfrc
 ln -s "$PWD/vimrc" ~/.vimrc
 ln -s "$PWD/vimrc.local" ~/.vimrc.local
 ln -s "$PWD/p10k.zsh" ~/.p10k.zsh
+ln -s "$PWD/gemrc" ~/.gemrc
