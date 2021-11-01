@@ -1,0 +1,8 @@
+brew "ctags"
+brew "asdf"
+brew "gpg"
+brew "gawk"
+brew "postgres"
+brew "git"
+brew "macvim"
+brew "coreutils"

@@ -1,5 +1,6 @@
 # First install brew and oh-my-zsh and powerlevel10k
 # https://github.com/romkatv/powerlevel10k#oh-my-zsh
+# Execure 'brew bundle'
 ln -s "$PWD/zprofile" ~/.zprofile
 ln -s "$PWD/zshrc" ~/.zshrc
 ln -s "$PWD/zsh.aliases" ~/.zsh.aliases
