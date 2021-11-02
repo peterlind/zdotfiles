@@ -6,3 +6,6 @@ if has("gui_running")
   set noballooneval
   let g:syntastic_enable_balloons = 0
 endif
+
+
+let g:NERDTreeShowHidden=1
